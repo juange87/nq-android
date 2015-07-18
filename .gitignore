@@ -58,3 +58,16 @@ out/
 
 ### OS stuff ###
 .DS_Store
+
+### NetQuestExercises### 
+NetQuestExercises/gradle
+NetQuestExercises/gradlew
+NetQuestExercises/gradlew.bat
+
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+
