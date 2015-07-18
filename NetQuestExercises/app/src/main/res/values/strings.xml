@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">NetQuestExercises</string>
+    <string name="main_fragment_btn_one_text">Open Exercise One</string>
+    <string name="main_fragment_btn_two_text">Open Exercise Two</string>
+    <string name="main_fragment_img_content_description">NetQuest Logo</string>
 </resources>

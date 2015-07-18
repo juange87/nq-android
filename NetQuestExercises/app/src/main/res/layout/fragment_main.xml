@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center">
+
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:src="@drawable/logo"
+        android:contentDescription="@string/main_fragment_img_content_description"/>
+
+    <Button
+        android:id="@+id/btn_exercise_one"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/main_fragment_btn_one_text"
+        android:layout_margin="@dimen/main_fragment_btn_margins"/>
+
+    <Button
+        android:id="@+id/btn_exercise_two"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/main_fragment_btn_two_text"
+        android:layout_margin="@dimen/main_fragment_btn_margins"/>
+
+</LinearLayout>
