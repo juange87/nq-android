@@ -1,6 +1,12 @@
 <resources>
-    <string name="app_name">NetQuestExercises</string>
+    <string name="app_name">Netquest Exercises</string>
     <string name="main_fragment_btn_one_text">Open Exercise One</string>
     <string name="main_fragment_btn_two_text">Open Exercise Two</string>
     <string name="main_fragment_img_content_description">NetQuest Logo</string>
+    <string name="first_exercise_first_step_welcome_text">Welcome</string>
+    <string name="first_exercise_first_step_submit_button">Submit</string>
+    <string name="first_exercise_first_step_hint_edit_text">Name</string>
+    <string name="welcome_name_text">Hello %s!</string>
+    <string name="welcome_time_text">Current time: %s</string>
+    <string name="alert_message">¡You should introduce some text!</string>
 </resources>
