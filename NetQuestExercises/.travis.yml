@@ -20,4 +20,4 @@ before_install:
   - chmod +x scripts/check_app.sh
 
 script:
-  - scripts/validator.sh
+  - scripts/check_app.sh

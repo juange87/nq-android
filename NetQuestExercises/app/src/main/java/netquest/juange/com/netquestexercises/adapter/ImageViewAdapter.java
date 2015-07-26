@@ -35,7 +35,7 @@ public class ImageViewAdapter extends RecyclerView.Adapter<ImageViewHolder> {
         Glide.with(this.context)
              .load(url)
              .centerCrop()
-//             .placeholder(R.drawable.loading_spinner)
+             .placeholder(R.drawable.logo)
              .crossFade()
              .into(holder.imageView);
     }
