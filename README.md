@@ -1,5 +1,4 @@
 # Netquest
 
-[![Build Status](https://travis-ci.org/juange87/nq-android.svg)](https://travis-ci.org/juange87/nq-android)
-
+[![Build Status](https://travis-ci.org/juange87/UCOMailChecker.svg?branch=master)](https://travis-ci.org/juange87/UCOMailChecker)
 [Webpage](http://www.netquest.com/)
