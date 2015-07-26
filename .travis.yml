@@ -17,7 +17,7 @@ notifications:
 
 before_install:
   - export TERM=dumb
-  - chmod +x scripts/check_app.sh
+  - chmod +x NetQuestExercises/scripts/check_app.sh
 
 script:
   - NetQuestExercises/scripts/check_app.sh
