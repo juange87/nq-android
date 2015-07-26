@@ -1,4 +1,4 @@
 #!/bin/bash
 set -ev
-./gradlew assemblePreDebug
+./gradlew assembleDebug
 
