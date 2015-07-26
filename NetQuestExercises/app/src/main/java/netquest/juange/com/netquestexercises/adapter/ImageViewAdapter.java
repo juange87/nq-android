@@ -1,4 +1,4 @@
-package netquest.juange.com.netquestexercises.exercise_two;
+package netquest.juange.com.netquestexercises.adapter;
 
 import android.content.Context;
 import android.support.v7.widget.RecyclerView;

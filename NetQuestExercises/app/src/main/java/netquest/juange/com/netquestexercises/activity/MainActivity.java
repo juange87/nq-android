@@ -1,18 +1,15 @@
-package netquest.juange.com.netquestexercises;
+package netquest.juange.com.netquestexercises.activity;
 
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentTransaction;
 import android.support.v7.app.AppCompatActivity;
-import android.widget.FrameLayout;
-import butterknife.Bind;
 import butterknife.ButterKnife;
+import netquest.juange.com.netquestexercises.fragment.MainFragment;
+import netquest.juange.com.netquestexercises.R;
 
 public class MainActivity extends AppCompatActivity {
-
-    @Bind(R.id.fragment_container)
-    FrameLayout fragmentContainer;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

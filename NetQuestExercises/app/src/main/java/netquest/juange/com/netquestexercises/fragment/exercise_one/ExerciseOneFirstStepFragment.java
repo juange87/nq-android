@@ -1,4 +1,4 @@
-package netquest.juange.com.netquestexercises.exercise_one;
+package netquest.juange.com.netquestexercises.fragment.exercise_one;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;

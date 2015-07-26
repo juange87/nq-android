@@ -1,4 +1,4 @@
-package netquest.juange.com.netquestexercises.exercise_two;
+package netquest.juange.com.netquestexercises.fragment.exercise_two;
 
 import android.content.res.Resources;
 import android.os.Bundle;
@@ -11,6 +11,7 @@ import android.widget.Toast;
 import butterknife.Bind;
 import butterknife.ButterKnife;
 import netquest.juange.com.netquestexercises.R;
+import netquest.juange.com.netquestexercises.adapter.ImageViewAdapter;
 import netquest.juange.com.netquestexercises.base.BaseFragment;
 import rx.Observable;
 import rx.android.schedulers.AndroidSchedulers;

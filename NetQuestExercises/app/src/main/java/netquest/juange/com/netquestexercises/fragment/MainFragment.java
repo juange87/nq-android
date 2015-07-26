@@ -1,4 +1,4 @@
-package netquest.juange.com.netquestexercises;
+package netquest.juange.com.netquestexercises.fragment;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -7,9 +7,10 @@ import android.view.ViewGroup;
 import android.widget.Button;
 import butterknife.ButterKnife;
 import butterknife.OnClick;
+import netquest.juange.com.netquestexercises.R;
 import netquest.juange.com.netquestexercises.base.BaseFragment;
-import netquest.juange.com.netquestexercises.exercise_one.ExerciseOneFirstStepFragment;
-import netquest.juange.com.netquestexercises.exercise_two.ExerciseTwoFragment;
+import netquest.juange.com.netquestexercises.fragment.exercise_one.ExerciseOneFirstStepFragment;
+import netquest.juange.com.netquestexercises.fragment.exercise_two.ExerciseTwoFragment;
 
 /**
  * Created by juange on 18/7/15.
