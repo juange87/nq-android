@@ -1,0 +1,23 @@
+language: android
+jdk: oraclejdk8
+
+android:
+  components:
+    - android-22
+    - build-tools-22.0.1
+    - extra-google-m2repository
+    - extra-android-m2repository
+    - extra-android-support
+    - extra-google-google_play_services
+
+notifications:
+  email:
+    on_success: never
+    on_failure: always
+
+before_install:
+  - export TERM=dumb
+  - chmod +x scripts/check_app.sh
+
+script:
+  - scripts/validator.sh
